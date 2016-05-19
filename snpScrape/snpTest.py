@@ -163,9 +163,3 @@ if __name__ == "__main__":
     #createPricesFile(companyList=[{"ticker":"GOOG","sector":"Technology","subSector":"computers"}],startDate=startDate, endDate=endDate)
     
     print "completed"
-
-
-
-
-
-            
